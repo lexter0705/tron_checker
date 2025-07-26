@@ -11,7 +11,6 @@ router = APIRouter()
 
 config = get_config()
 database_worker = RequestWorker(config.database_url)
-
 tron_connector = TronConnector(config.tron_api_endpoint, api_key=config.tron_api_key)
 
 

@@ -1,5 +1,3 @@
-import json
-
 from config.config import Config
 
 
