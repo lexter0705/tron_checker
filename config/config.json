@@ -1,0 +1,5 @@
+{
+  "database_url": "sqlite:///database/database.sqlite",
+  "tron_api_endpoint": "https://api.trongrid.io",
+  "tron_api_key": ""
+}
